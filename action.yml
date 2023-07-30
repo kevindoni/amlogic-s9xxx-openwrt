@@ -37,7 +37,7 @@ inputs:
   builder_name:
     description: "Set OpenWrt builder signature."
     required: false
-    default: ""
+    default: "Kevin Doni"
   gh_token:
     description: "Set the token."
     required: false
